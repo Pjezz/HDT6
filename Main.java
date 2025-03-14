@@ -54,7 +54,7 @@ public class Main {
     }
 
     private static void mostrarMenu() {
-        System.out.println("\n=== MENÚ POKÉMON ===");
+        System.out.println("\n=== MENU POKÉMON ===");
         System.out.println("1. Agregar a tu colección");
         System.out.println("2. Consultar datos de Pokémon");
         System.out.println("3. Tu colección ordenada por Tipo");
