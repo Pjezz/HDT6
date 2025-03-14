@@ -16,7 +16,7 @@ public class Main {
         MapFactory factory = new MapFactory();
         pokemonMap = factory.createMap(mapChoice);
 
-        String rutaCSV = "C:\\Users\\WorkLaptopDell\\Desktop\\Uvg\\Semestre 3\\Estructura de Datos\\HDT6\\pokemon_data_pokeapi.csv";
+        String rutaCSV = "pokemon_data_pokeapi.csv";
         cargarDatos(rutaCSV);
 
         while (true) {
